@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* Tailwind directives removed or handled by build tool */
 
 /* OPTIONAL: Your global custom styling */
 body {
